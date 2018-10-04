@@ -638,7 +638,7 @@ section
 {
 	width: 100%;
 }
-.fs_social_container
+/**.fs_social_container
 {
 	position: absolute;
 	bottom: 0px;
@@ -666,7 +666,7 @@ section
 .fs_social li:hover i
 {
 	color: rgba(255,66,0,1);
-}
+}**/
 
 /*********************************
 4. Main Slider
