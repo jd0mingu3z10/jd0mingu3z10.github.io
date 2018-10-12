@@ -794,7 +794,9 @@ section
 	text-transform: uppercase;
 	letter-spacing: 0.2em;
 }
-
+.box-2{
+	padding-bottom: 120px;
+}
 /*********************************
 7.1 Elements - Buttons
 *********************************/
